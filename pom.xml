@@ -4,7 +4,7 @@
 
     <groupId>it.solutionsexmachina</groupId>
     <artifactId>genericdao</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>Generic JPA DAO with embedded ObjectDB</name>
     <description>Init an ObjectDB database and expose a generic JPA dao</description>
@@ -37,7 +37,7 @@
         <connection>scm:git:git://github.com/dpansica/genericdao.git</connection>
         <developerConnection>scm:git:git@github.com:dpansica/dpansica/genericdao.git</developerConnection>
         <url>https://github.com/dpansica/genericdao</url>
-        <tag>HEAD</tag>
+        <tag>genericdao-1.0</tag>
     </scm>
 
     <distributionManagement>
